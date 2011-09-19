@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>0.14.0</version>
+  <categories>
+    <category>
+      <name>Dominée par les russes</name>
+      <color>255,0,0</color>
+    </category>
+    <category>
+      <name>Dominée par les Américains.</name>
+      <color>0,0,255</color>
+    </category>
+    <category>
+      <name>ONU</name>
+      <color>144,238,144</color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>1945-5-8 0:0:0</start>
+      <end>1945-5-8 0:0:0</end>
+      <text>Capitulation de l'Allemagne nazie.</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1945-8-6 0:0:0</start>
+      <end>1945-8-6 0:0:0</end>
+      <text>Hiroshima</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1945-8-9 0:0:0</start>
+      <end>1945-8-9 0:0:0</end>
+      <text>Nagazaki</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1945-2-4 0:0:0</start>
+      <end>1945-2-4 0:0:0</end>
+      <text>Yalta</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Dominée par les russes</category>
+      <description>-Garantir un Ordre Mondial après la Guerre
+-Inciter Stalline à attaquer la Chine après la défaite de l'Allemagne.
+-Régler le sort de l'Europe sine-nzaie.
+
+*Stalline attaquera le Japon (Roosevelt content)
+*France occupera l'Allemagne. (Churchill content)
+
+=&gt; Conférence dominée par Stalline.</description>
+    </event>
+    <event>
+      <start>1945-7-1 0:0:0</start>
+      <end>1945-8-31 0:0:0</end>
+      <text>Potsdam</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Dominée par les Américains.</category>
+      <description>Régler le sort de l'Allemagne -&gt; (Dénazification, réparations)
+
+Ambiance moisn cordiale -&gt; Annonce des tensions de la guerre froide.
+Cpdt, les frontières de l'URSS (not. en Pologne) ne sont pas remisesen cause.</description>
+    </event>
+    <event>
+      <start>1945-9-2 0:0:0</start>
+      <end>1945-9-2 0:0:0</end>
+      <text>Capitulation du Japon</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1945-11-1 0:0:0</start>
+      <end>1946-10-31 0:0:0</end>
+      <text>Procès de Nuremberg</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1946-1-1 0:0:0</start>
+      <end>1946-12-31 0:0:0</end>
+      <text>Procès de Tokyo</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1946-3-5 0:0:0</start>
+      <end>1946-3-5 0:0:0</end>
+      <text>Discours de Fulton</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1944-7-22 0:0:0</start>
+      <end>1944-7-22 0:0:0</end>
+      <text>Accords de Bretton-Woods</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Dominée par les Américains.</category>
+      <description>-Monnaies gagées sur l'or.
+-Parité fixe
+-Les bnaques centrales interviennent pour la stabilité de la monnaie.
+
+*FMI -&gt; stabiliser les monnaies.
+*BIRD -&gt; Reconstruction</description>
+    </event>
+    <event>
+      <start>1943-11-28 0:0:0</start>
+      <end>1943-12-1 0:0:0</end>
+      <text>Conférence de Téhéran.</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>Première rencontre des 3 Grands.
+
+-Organistation du débarquement
+-Stalline accepte le pricncipe del'ONU défendu par Roosevelt
+-Entente sur un démenbrement de l'Allemagne.
+-Pas d'entente sur la Pologne.</description>
+    </event>
+    <event>
+      <start>1945-4-25 0:0:0</start>
+      <end>1945-6-26 0:0:0</end>
+      <text>Conférence de S.F.</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>ONU</category>
+      <description>Création de l'ONU</description>
+    </event>
+    <event>
+      <start>1942-1-1 0:0:0</start>
+      <end>1942-1-1 0:0:0</end>
+      <text>Déclaration des Nations Unies</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>ONU</category>
+      <description>26 Naions s'engagent à poursuivre la guerre et à anéantir le régime nazi.</description>
+    </event>
+    <event>
+      <start>1941-8-14 0:0:0</start>
+      <end>1941-8-14 0:0:0</end>
+      <text>Déclaration de l'Atlantique</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>ONU</category>
+      <description>Bases du monde nouveau, déclaration commune de Churchill et Roosevelt.
+/!\ Pas signé.</description>
+    </event>
+    <event>
+      <start>1948-12-10 0:0:0</start>
+      <end>1948-12-10 0:0:0</end>
+      <text>Déclaration Universelle des Droits de l'Homme</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>ONU</category>
+      <description>*Éducation
+*Sécurité sociale
+*Travail
+*Santé
+*Culture</description>
+    </event>
+    <event>
+      <start>1943-10-30 0:0:0</start>
+      <end>1943-10-30 0:0:0</end>
+      <text>Déclaration de Moscou</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>ONU</category>
+    </event>
+    <event>
+      <start>1945-4-12 0:0:0</start>
+      <end>1945-4-12 0:0:0</end>
+      <text>Mort de Roosevelt</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>1944-7-10 2:55:37</start>
+      <end>1945-12-26 1:0:33</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
