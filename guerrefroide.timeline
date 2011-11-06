@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>0.14.0</version>
+  <categories>
+    <category>
+      <name>Séparation</name>
+      <color>255,0,0</color>
+    </category>
+    <category>
+      <name>Alliance</name>
+      <color>139,105,20</color>
+    </category>
+    <category>
+      <name>Guerre</name>
+      <color>165,42,42</color>
+    </category>
+    <category>
+      <name>Rapprochement</name>
+      <color>0,255,0</color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>1948-6-1 0:0:0</start>
+      <end>1949-5-31 0:0:0</end>
+      <text>Blocus de Berlin</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Séparation</category>
+      <description>Suite à la mise en place du Deutschmark</description>
+    </event>
+    <event>
+      <start>1949-5-1 0:0:0</start>
+      <end>1949-5-1 0:0:0</end>
+      <text>Création RFA</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Séparation</category>
+    </event>
+    <event>
+      <start>1949-10-7 0:0:0</start>
+      <end>1949-10-7 0:0:0</end>
+      <text>Création RDA</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Séparation</category>
+    </event>
+    <event>
+      <start>1949-1-1 0:0:0</start>
+      <end>1949-1-1 0:0:0</end>
+      <text>CAEM</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Séparation</category>
+    </event>
+    <event>
+      <start>1949-4-1 0:0:0</start>
+      <end>1949-4-1 0:0:0</end>
+      <text>OTAN</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Alliance</category>
+    </event>
+    <event>
+      <start>1955-1-1 0:0:0</start>
+      <end>1955-1-1 0:0:0</end>
+      <text>Pacte de Varsovie</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Alliance</category>
+    </event>
+    <event>
+      <start>1949-10-1 0:0:0</start>
+      <end>1949-10-1 0:0:0</end>
+      <text>Maozedong : Rép Pop de Chine</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Alliance</category>
+    </event>
+    <event>
+      <start>1950-6-25 0:0:0</start>
+      <end>1953-7-27 0:0:0</end>
+      <text>Guerre de Corée</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Guerre</category>
+    </event>
+    <event>
+      <start>1946-1-1 0:0:0</start>
+      <end>1954-7-31 0:0:0</end>
+      <text>Guerre d'Indochine</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Guerre</category>
+      <description>Accords de genève, Juillet 1954.</description>
+    </event>
+    <event>
+      <start>1962-1-1 0:0:0</start>
+      <end>1975-12-31 0:0:0</end>
+      <text>Guere du Vietnam</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Guerre</category>
+    </event>
+    <event>
+      <start>1949-1-1 0:0:0</start>
+      <end>1949-1-1 0:0:0</end>
+      <text>L'URSS a la bombe A</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1953-1-1 0:0:0</start>
+      <end>1953-1-1 0:0:0</end>
+      <text>L'URSS bombe H</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1953-3-5 0:0:0</start>
+      <end>1953-3-5 0:0:0</end>
+      <text>Mort de Stalline</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>Nikita Kroutchev aura vraiment le pouvoir en 1956</description>
+    </event>
+    <event>
+      <start>1961-1-1 0:0:0</start>
+      <end>1961-1-1 0:0:0</end>
+      <text>Kroutchev rencontre Kennedy</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Rapprochement</category>
+    </event>
+    <event>
+      <start>1956-1-1 0:0:0</start>
+      <end>1956-1-1 0:0:0</end>
+      <text>XXème Congré : Krtchv prone le rapprochement</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Rapprochement</category>
+      <description>La guerre pour l'espace continue</description>
+    </event>
+    <event>
+      <start>1956-10-23 0:0:0</start>
+      <end>1956-11-10 0:0:0</end>
+      <text>Crise de Hongrie</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1956-10-29 0:0:0</start>
+      <end>1956-11-15 0:0:0</end>
+      <text>Crise de Suez</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1961-8-13 0:0:0</start>
+      <end>1961-8-13 0:0:0</end>
+      <text>Mur de BErlin</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+    <event>
+      <start>1962-10-22 0:0:0</start>
+      <end>1962-10-22 0:0:0</end>
+      <text>Kennedy pose l'ultimatum de la crise de Cuba</text>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>1930-6-24 0:9:14</start>
+      <end>1960-5-22 20:46:58</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
